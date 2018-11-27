@@ -39,7 +39,7 @@ Toda persona, cuando participa de las actividades que se desarrollan en el PdeP2
 Las actividades pueden ser: 
 - Charla temática: Hace que todo el que estuvo escuchandola pase a conocer los temas de la charla.
 - Taller de desarrollo de software: Aumenta la cantidad de commits en programadores y especialistas, a razón de 20 commits por cada hora de duración. Los especialistas pasan a conocer el lenguaje en el que se hizo el taller. A los gerentes no les afecta en nada.
-- Stand Up:  Depende de la metodología utilizada: Si es "scrum", hace que los participantes aprendan los temas abordados. Si es "cascadeitor" hace que pierda la mitad de sus conocimientos. Si es "indefinido" no pasa  nada.
+- Stand Up: Depende de la metodología utilizada: Si es *scrum*, hace que los participantes aprendan los temas abordados. Si es "cascadeitor" hace que pierda la mitad de sus conocimientos. Si es **indefinido** no pasa  nada.
 - Orientación vocacional. Es una actividad que hace organiza una empresa multinacional, que hace repensar la profesión. Cuando participa un programador, se transforma en especialista, sin alterar sus commit y conocimientos. Cuando participa un especialista con demasiados commits, la empresa le da un puesto de gerente y la persona olvida la mitad de sus conocimientos anteriores y pierde el registro de sus commits pero aprende sobre pirámides de maslow. Cuando participa un gerente, si se da el caso que sabe programación orientada a objetos, redescubre su vocación de programador y queda listo para hacer commit.
 
 
